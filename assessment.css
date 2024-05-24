@@ -1,0 +1,16 @@
+body {
+  background-color: #04a6eb;
+  color: #fdffff;
+  width: 500px; /* 幅を 500px に設定します。 */
+  margin-right: auto; /* 右側のマージンを自動調節にします。 */
+  margin-left: auto; /* 左側のマージンを自動調節にします。 */
+}
+button {
+  padding: 5px 20px;
+  background-color: #337ab7;
+  color: #fdffff;
+  border-style: none;
+}
+input {
+  height: 20px;
+}
